@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hornypicket Life</title>
-    <link>https://hornypicket.github.io/</link>
+    <link>https://hornypicket.com/</link>
     <description>Recent content on Hornypicket Life</description>
     <generator>Hugo -- 0.127.0</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 17 Jun 2024 23:21:57 +0800</lastBuildDate>
-    <atom:link href="https://hornypicket.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://hornypicket.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To Be Continued...</title>
-      <link>https://hornypicket.github.io/docs/to-be-continued/</link>
+      <link>https://hornypicket.com/docs/to-be-continued/</link>
       <pubDate>Mon, 17 Jun 2024 23:21:57 +0800</pubDate>
-      <guid>https://hornypicket.github.io/docs/to-be-continued/</guid>
+      <guid>https://hornypicket.com/docs/to-be-continued/</guid>
       <description>to be continued~ </description>
     </item>
   </channel>
