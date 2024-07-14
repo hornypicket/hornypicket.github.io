@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Hornypicket</title>
+    <link>https://hornypicket.com/zh-tw/categories/</link>
+    <description>Recent content in Categories on Hornypicket</description>
+    <generator>Hugo -- 0.127.0</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sat, 13 Jul 2024 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://hornypicket.com/zh-tw/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ramen-Couple</title>
+      <link>https://hornypicket.com/zh-tw/categories/ramen-couple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hornypicket.com/zh-tw/categories/ramen-couple/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>快思慢想</title>
+      <link>https://hornypicket.com/zh-tw/categories/%E5%BF%AB%E6%80%9D%E6%85%A2%E6%83%B3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://hornypicket.com/zh-tw/categories/%E5%BF%AB%E6%80%9D%E6%85%A2%E6%83%B3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
